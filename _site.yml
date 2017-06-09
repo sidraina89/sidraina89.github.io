@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "About Me"
+      href: about.html
       
 output:
   html_document:
