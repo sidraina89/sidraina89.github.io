@@ -2,4 +2,14 @@
 title: "About Me"
 ---
 
-Why I am awesome.
+
+
+
+<div style="float:left">
+![](sid.jpg)
+</div>
+
+<div style="float:right" class = "content">
+    Siddharth Raina
+    I am a Data Analytics Specialist @ Deloitte.
+  </div>

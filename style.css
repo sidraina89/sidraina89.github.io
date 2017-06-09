@@ -1,0 +1,11 @@
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  left: 20px;
+  z-index: 5;
+}

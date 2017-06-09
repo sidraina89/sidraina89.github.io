@@ -7,3 +7,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+      
+output:
+  html_document:
+    theme: flatly
+    css: style.css
